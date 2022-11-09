@@ -30,8 +30,8 @@ L'autorisation a un développeur, est nécessaire pour les utiliser.
 
 ## Plus d'informations et de questions 
 
-Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y.`](https://discord.gg/C9CCc2VpZK)
-[`Cliquer ici si vous voulez inviter fox'y.`](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319)
+Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y`](https://discord.gg/C9CCc2VpZK).
+[`Cliquer ici si vous voulez inviter fox'y`](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
 
 
 *Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
