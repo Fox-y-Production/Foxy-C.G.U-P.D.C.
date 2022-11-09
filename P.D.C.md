@@ -19,7 +19,7 @@
 > Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
 
 ## La justice.
-À partir de la première utilisation du bot, l'utilisateur est conscient que des données personnelles peuvent être divulguée aux autorités publiques suite à une demande de la justice.
+> À partir de la première utilisation du bot, l'utilisateur est conscient que des données personnelles peuvent être divulguée aux autorités publiques suite à une demande de la justice.
 
 ## Droit d'auteur (Copyright)
 > Les images, codes, etc. Appartiens au développeur du bot. 
