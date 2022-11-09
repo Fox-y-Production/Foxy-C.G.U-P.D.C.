@@ -1,4 +1,4 @@
-# Foxy | politique de confidentialité.
+# ![](https://cdn.discordapp.com/avatars/1035925300544016535/9b43eae31003e48b0e5ba6959c190747.webp?size=1024) Foxy | politique de confidentialité.
 
  ## Accès aux données
 
