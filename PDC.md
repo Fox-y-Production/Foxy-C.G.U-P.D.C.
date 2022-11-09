@@ -1,4 +1,4 @@
-# Foxy-politique-de-confidentialité
+# Foxy | politique de confidentialité.
 
  ## Accès aux données
 
