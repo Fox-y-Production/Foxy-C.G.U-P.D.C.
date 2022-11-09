@@ -4,7 +4,6 @@
 L'accès aux données n'est autorisé qu'aux développeurs du Bot, et uniquement dans le cadre requis pour le développement, les tests et la mise en œuvre des fonctionnalités de Bot. 
 Les données ne sont ni vendues, fournies ni partagées avec des tiers, sauf si la loi ou un accord sur les conditions d'utilisation l'exige.
 
-
 ## Stockage des données
 Les données sont stockées dans une base de données sécurisée contre l’accès public.
 L'accès aux données n'est autorisé qu'aux développeurs du Bot.
@@ -18,6 +17,9 @@ Vous avez le droit de demander la suppression des vos données.
 Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
 Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
 
+## La justice.
+À partir de la première utilisation du bot, l'utilisateur est conscient que des données personnelles peuvent être divulguée aux autorités publiques suite à une demande de la justice.
+
 ## Droit d'auteur (Copyright)
 Les images, codes, etc. Appartiens au développeur du bot. 
 L'autorisation a un développeur, est nécessaire pour les utiliser.
@@ -28,3 +30,6 @@ Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des ques
 [`Cliquer ici si vous voulez inviter fox'y`](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
 *Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
 Dernière modification le 09/11/2022*
+
+### Propriétaire.
+Revolt & 'Adyux
