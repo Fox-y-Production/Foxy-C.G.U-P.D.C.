@@ -38,6 +38,6 @@ Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des ques
 Dernière modification le 09/11/2022*
 
   <a href="https://discord.gg/C9CCc2VpZK">
-    <img src="https://discord.com/widget?id=1035589781163364502&theme=dark" width="350" height="500" alt="Discord Server">
+    <img src="https://discord.com/widget?id=1035589781163364502&" width="350" height="500" alt="Discord Server">
 
   </a>
