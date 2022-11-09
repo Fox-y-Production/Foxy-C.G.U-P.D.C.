@@ -1,13 +1,13 @@
 # ![](https://cdn.discordapp.com/emojis/1037295190978871336.webp?size=48&quality=lossless)〃Foxy | Conditions Générales d'Utilisation.
 
-## Respect des Conditions d’utilisation de Discord (ToS)
+## Respect des Conditions d’utilisation de Discord. (ToS)
 > Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
 > Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
 
 ## Reproduction du bot.
 > Toute reproduction du bot sera poursuivie.
 
-## Bugs a gogo.
+## Bugs à gogos.
 > Si vous trouvez un bug dans le bot, nous vous demandons de prévenir l'équipe administrative dans le serveur support qui est ci-dessous.
 > - Si vous vous amusiez à créer un bug au bot, une sanction pourrait être émise. 
 
@@ -18,9 +18,9 @@
 ## Les tentatives de piratages & Paroles de piratages.
 > Les tentatives et paroles de piratages sont prises au sérieux par notre équipe. Toute parole/tentatives de piratages suivront d'un bannissement des interactions sur le bot.
 
-## Droit d'auteur *(Copyright)*
-> Les images, codes, etc. Appartiens au développeur du bot. 
-> L'autorisation a un développeur, est nécessaire pour les utiliser.
+## Droit d'auteur. *(Copyright)*
+> L'image de profils, et . Appartiens au développeur(s) du bot. 
+> L'autorisation du/des développeur(s), est nécessaire pour les utiliser.
 
 ## Plus d'informations et de questions <a href="https://discord.gg/C9CCc2VpZK"> <img src="https://discordapp.com/api/guilds/1035589781163364502/widget.png?style=shield" alt="Support Serveur"></a>
 > Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y`](https://discord.gg/C9CCc2VpZK).
