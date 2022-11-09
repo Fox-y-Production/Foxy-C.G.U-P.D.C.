@@ -4,9 +4,15 @@
 Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
 Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
 
+## Reproduction du bot.
+Toute reproduction du bot sera poursuivie.
+
 ## Bannissement du bot.
 Nous nous permettons de bloquer les interactions du bot aux membres qui ne respecte pas les C.G.U, ou suite à une insulte au staff du serveur disocrd.
 > Toutes demandent de débannissement peux être traiter par le staff, seul le(s) développeur(s) du bot décide si le bannissement peut être levé.
+
+## Les tentatives de piratages | Paroles de piratages.
+Les tentatives et paroles de piratages sont prises au sérieux par notre équipe. Toute parole/tentatives de piratages suivront d'un bannissement des interactions sur le bot.
 
 ## Droit d'auteur *(Copyright)*
 Les images, codes, etc. Appartiens au développeur du bot. 
