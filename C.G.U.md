@@ -7,6 +7,9 @@
 ## Reproduction du bot.
 > Toute reproduction du bot sera poursuivie.
 
+## Bugs a gogo.
+> Si vous trouvez un bug dans le bot, nous vous demandons de prévenir l'équipe administrative dans le serveur support qui est ci-dessous.
+> - Si vous vous amusiez à créer un bug au bot, une sanction pourrait être émise. 
 
 ## Bannissement du bot.
 > Nous nous permettons de bloquer les interactions du bot aux membres qui ne respecte pas les C.G.U, ou suite à une insulte au staff du serveur disocrd.
@@ -26,4 +29,4 @@
 Dernière modification le 09/11/2022*
 
 ### Propriétaire.
-> Revolt & 'Adyux
+> Revolt.
