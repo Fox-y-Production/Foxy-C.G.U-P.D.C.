@@ -1,4 +1,4 @@
-# ![](https://cdn.discordapp.com/emojis/1037295190978871336.webp?size=48&quality=lossless)Foxy | politique de confidentialité.
+# ![](https://cdn.discordapp.com/emojis/1037295190978871336.webp?size=48&quality=lossless) Foxy | politique de confidentialité.
 
  ## Accès aux données
 
