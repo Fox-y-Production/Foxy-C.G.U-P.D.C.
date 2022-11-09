@@ -20,7 +20,7 @@ Vous avez le droit de demander la suppression des vos données.
 
 ## Respect des Conditions d’utilisation de Discord (ToS)
 
-Nous nous engageons à ce que le bot respecte les [`ToS de discord.`](https://discord.com/terms)
+Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
 Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
 
 ## Droit d'auteur (Copyright)
