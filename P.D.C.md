@@ -24,8 +24,7 @@ Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux ê
 Les images, codes, etc. Appartiens au développeur du bot. 
 L'autorisation a un développeur, est nécessaire pour les utiliser.
 
-## Plus d'informations et de questions 
-<a href="https://discord.gg/C9CCc2VpZK"> <img src="https://discordapp.com/api/guilds/1035589781163364502/widget.png?style=shield" alt="Support Serveur"></a>
+## Plus d'informations et de questions <a href="https://discord.gg/C9CCc2VpZK"> <img src="https://discordapp.com/api/guilds/1035589781163364502/widget.png?style=shield" alt="Support Serveur"></a>
 Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y`](https://discord.gg/C9CCc2VpZK).
 [`Cliquer ici si vous voulez inviter fox'y`](https://discord.com/oauth2/authorize?client_id=1035925300544016535&scope=bot+applications.commands&permissions=2113400319).
 *Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
