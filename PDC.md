@@ -37,4 +37,6 @@ Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des ques
 *Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
 Dernière modification le 09/11/2022*
 
-<iframe src="https://discord.com/widget?id=1035589781163364502&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <a href="https://discord.gg/red">
+    <img src="https://discordapp.com/api/guilds/1035589781163364502/widget.png?style=shield" alt="Discord Server">
+  </a>
