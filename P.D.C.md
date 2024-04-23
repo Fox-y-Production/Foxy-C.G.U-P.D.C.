@@ -8,12 +8,12 @@
 > Les données sont stockées dans une base de données sécurisée contre l’accès public.
 > L'accès aux données n'est autorisé qu'aux développeurs du Bot.
 
-> Dans le cadre de collecter le moins de donnée possible, mais de garder un bot fonctionnel, les canaux temporaires ainsi que les messages étoilés *(starboard)*, elles sont seulement stocké dans la mémoire vive et a chaque extinction du bot elles sont supprimer. Qui dit mémoire volatile dit ne fonctionne plus après. Cela est dur en effet, mais nous voulons vraiment garder un minimum de données afin de préserver l'environnement et d'éviter de garder des données inutiles pendant cinquante millions d'années.
+> *Dans le cadre de collecter le moins de donnée possible, mais de garder un bot fonctionnel, les canaux temporaires, elles sont seulement stocké dans la mémoire vive et a chaque extinction du bot elles sont supprimer. Qui dit mémoire volatile dit ne fonctionne plus après. Cela est dur en effet, mais nous voulons vraiment garder un minimum de données afin de préserver l'environnement et d'éviter de garder des données inutiles.*
 
 ## Droits de l’utilisateur.
 > À tout moment, vous avez le droit de demander à consulter les Données relatives à votre compte Discord.
 > Vous avez le droit de demander la suppression des vos données.
-> - Vous pouvez soumettre une demande via le sopport [`de Fox'y`](https://discord.gg/Bwrg8WxADK).
+> - Vous pouvez soumettre une demande via le support [`de Fox'y`](https://discord.gg/Bwrg8WxADK).
 
 ## Respect des Conditions d’utilisation de Discord (ToS)
 > Nous nous engageons à ce que le bot respecte les [`ToS de discord`](https://discord.com/terms).
